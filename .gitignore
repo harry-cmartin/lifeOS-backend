@@ -1,5 +1,12 @@
 # Compiled class file
+
+*.env
+init.sql
+*DS_Store
+.idea
 *.class
+
+
 
 # Log file
 *.log
